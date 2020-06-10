@@ -1,6 +1,6 @@
-# Anime Image Rescaler
+# Anime Image Upscaler
 
-Rescale anime, manga and anime-related art work to 4x size.
+Upscaling anime, manga and anime-related art work to 4x size.
 
 The model was an implemtation of the SRGAN for Single Image Super Resolution task (https://arxiv.org/abs/1609.04802)
 
